@@ -11,7 +11,7 @@ const Home = () => {
         <div className="headerContainer">
           <h1>Shoes Store</h1>
           <p>Top varieties shoes</p>
-          <Link to="/menu">
+          <Link to="/products">
             <button>SHOP NOW</button>
           </Link>
         </div>
